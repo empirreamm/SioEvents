@@ -1,0 +1,23 @@
+{
+  "name": "sioevents",
+  "version": "1.0.0",
+  "description": "Events Controller for nodejs module and navigators",
+  "main": "SioEvents.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/empirreamm/SioEvents.git"
+  },
+  "keywords": [
+    "CustomEvents",
+    "Navigator",
+    "Nodejs"
+  ],
+  "author": "SIOrbita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/empirreamm/SioEvents/issues"
+  },
+  "homepage": "https://github.com/empirreamm/SioEvents#readme",
+  "type": "module"
+}
